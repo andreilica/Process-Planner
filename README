@@ -1,3 +1,5 @@
+# C Process Planner
+
 Codul este alcatuit din 9 functii si main. Functiile secundare sunt:
 	- o functie care este folosita pentru a afisa procesul si date despre procesul curent din starea RUNNING
 	- o functie care este folosita pentru a adauga procese noi in starea READY
